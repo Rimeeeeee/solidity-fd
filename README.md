@@ -1,2 +1,3 @@
-# solidity-fd
+#CHAIN INTEREST- solidity-fd
 A simple blockchain application that allows finance sector to create several deposit schemes for beneficary investments which the customers can easily subscibe to by connecting their ethereum wallet. Made using solidity , deployed on Polygon![New Scheme](https://github.com/Rimeeeeee/solidity-fd/assets/117741714/f715e7d5-d2a1-4588-acff-46bac2dc4bc6)
+Traditional banking sectors demand consumer to visit banks at regular interval to enquire about the deposits and schemes. Moreover papers are wasted through certificates. Chain Interest is a platform which allows banking sectors to create schemes and indivisual to invest in them by simply pairing the ethereum wallet.An indivisual or bank can check the popularity of scheme and request money at the end of maturity period with more safety and security.
